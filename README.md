@@ -7,17 +7,17 @@ In order to assisst online lending companies to mittigate risk:
 
 * Using free data from LendingClub I'll Analyse different machine learning models to predict and individuals credit risk: 
    ### * Resampling
-        * Oversampling
-            * Naive Random Oversampling algorith
-            * SMOTE Oversampling algorithm 
-        * Undersampling
-            * Cluster Centroids algorithm 
-        * Combination (Over and Under) Sampling
-            * SMOTEENN algorithm
+  * Oversampling
+     * Naive Random Oversampling algorith
+     * SMOTE Oversampling algorithm 
+  * Undersampling
+       * Cluster Centroids algorithm 
+  * Combination (Over and Under) Sampling
+       * SMOTEENN algorithm
             
     ### * Ensemble Learning
-        * Balanced Random Forest Classifier 
-        * Easy Ensemble classifier
+   * Balanced Random Forest Classifier 
+   * Easy Ensemble classifier
     
 ## Ensemble Learning Imports
 
@@ -45,20 +45,21 @@ In order to assisst online lending companies to mittigate risk:
 
 ## Resampling
 
-Which model had the best balanced accuracy score? The Smote Oversampling model
-
-Which model had the best recall score? Naive Random Oversampling model
-
-Which model had the best geometric mean score? The Smote Oversampling model
+Which model had the best balanced accuracy score? 
+   * The Smote Oversampling model
+Which model had the best recall score? 
+   * Naive Random Oversampling model
+Which model had the best geometric mean score? 
+   * The Smote Oversampling model
 
 ## Ensemble 
 
-Which model had the best balanced accuracy score? Easy Ensemble Classifier(eec_acc_score = 0.92)
-
-Which model had the best recall score? Easy Ensemble Classifier
-
-Which model had the best geometric mean score? Easy  Ensemble Classifier
-
+Which model had the best balanced accuracy score? 
+  * Easy Ensemble Classifier(eec_acc_score = 0.92)
+Which model had the best recall score? 
+  * Easy Ensemble Classifier
+Which model had the best geometric mean score? 
+   * Easy  Ensemble Classifier
 
 What are the top three features?
 * Top 3 Features
