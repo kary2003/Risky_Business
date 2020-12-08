@@ -6,18 +6,16 @@
 In order to assisst online lending companies to mittigate risk:
 
 * Using free data from LendingClub I'll Analyse different machine learning models to predict and individuals credit risk: 
-    * Resampling
+   ### * Resampling
         * Oversampling
-            * Naive Random Oversampling algorithm
-            * SMOTE Oversampling algorithm
-            
+            * Naive Random Oversampling algorith
+            * SMOTE Oversampling algorithm 
         * Undersampling
             * Cluster Centroids algorithm 
-            
         * Combination (Over and Under) Sampling
             * SMOTEENN algorithm
             
-    * Ensemble Learning
+    ### * Ensemble Learning
         * Balanced Random Forest Classifier 
         * Easy Ensemble classifier
     
@@ -76,7 +74,7 @@ What are the top three features?
 
 [Risk-Resampling Notebook](https://github.com/kary2003/11_Risky_Business/blob/main/credit_risk_resampling.ipynb)
 
-[Resources](https://github.com/kary2003/11_Risky_Business/tree/main/Resources)
+[LoanStats](https://github.com/kary2003/11_Risky_Business/tree/main/Resources)
 
 
 
