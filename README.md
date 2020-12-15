@@ -5,7 +5,7 @@
 # Background
 In order to assisst online lending companies to mittigate risk:
 
-* Using free data from LendingClub I'll Analyse different machine learning models to predict and individuals credit risk: 
+Using free data from LendingClub I'll Analyse different machine learning models to predict and individuals credit risk: 
    ### * Resampling
   * Oversampling
      * Naive Random Oversampling algorith
@@ -15,7 +15,7 @@ In order to assisst online lending companies to mittigate risk:
   * Combination (Over and Under) Sampling
        * SMOTEENN algorithm
             
-    ### * Ensemble Learning
+  ### * Ensemble Learning
    * Balanced Random Forest Classifier 
    * Easy Ensemble classifier
     
@@ -47,8 +47,10 @@ In order to assisst online lending companies to mittigate risk:
 
 Which model had the best balanced accuracy score? 
    * The Smote Oversampling model
+   
 Which model had the best recall score? 
    * Naive Random Oversampling model
+   
 Which model had the best geometric mean score? 
    * The Smote Oversampling model
 
@@ -56,8 +58,10 @@ Which model had the best geometric mean score?
 
 Which model had the best balanced accuracy score? 
   * Easy Ensemble Classifier(eec_acc_score = 0.92)
+  
 Which model had the best recall score? 
   * Easy Ensemble Classifier
+  
 Which model had the best geometric mean score? 
    * Easy  Ensemble Classifier
 
@@ -69,11 +73,10 @@ What are the top three features?
 
 
 
-## Files
 
-[Risk-Ensemble Notebook](https://github.com/kary2003/11_Risky_Business/blob/main/credit_risk_ensemble.ipynb)
+[Risk-Ensemble Notebook](https://github.com/kary2003/11_Risky_Business/blob/main/Resample_Ensemble_Files/credit_risk_ensemble.ipynb)
 
-[Risk-Resampling Notebook](https://github.com/kary2003/11_Risky_Business/blob/main/credit_risk_resampling.ipynb)
+[Risk-Resampling Notebook](https://github.com/kary2003/11_Risky_Business/blob/main/Resample_Ensemble_Files/credit_risk_resampling.ipynb)
 
 [LoanStats](https://github.com/kary2003/11_Risky_Business/tree/main/Resources)
 
