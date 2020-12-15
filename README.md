@@ -74,9 +74,9 @@ What are the top three features?
 
 
 
-[Risk-Ensemble Notebook]()
+[Risk-Ensemble Notebook](https://github.com/kary2003/11_Risky_Business/blob/main/credit_risk_ensemble.ipynb)
 
-[Risk-Resampling Notebook](https://github.com/kary2003/11_Risky_Business/blob/main/credit_risk_ensemble.ipynb)
+[Risk-Resampling Notebook](https://github.com/kary2003/11_Risky_Business/blob/main/credit_risk_resampling.ipynb)
 
 [LoanStats](https://github.com/kary2003/11_Risky_Business/tree/main/Resources)
 
