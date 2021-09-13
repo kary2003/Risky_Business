@@ -1,6 +1,6 @@
 # Risky Business
 
-![image](http://blogs.edf.org/energyexchange/files/2017/06/risk_management.jpg)
+![image](https://user-images.githubusercontent.com/70820754/133014457-7c939d4c-ba22-4df3-baf9-71856b0e43fa.png)
 
 # Background
 In order to assisst online lending companies to mittigate risk:
